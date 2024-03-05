@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="308fc847-c5b3-4ebc-970c-bf8e1326be58" name="Changes" comment="secondo esercizio finito">
-      <change afterPath="$PROJECT_DIR$/src/esercizio3/es3.java" afterDir="false" />
+    <list default="true" id="308fc847-c5b3-4ebc-970c-bf8e1326be58" name="Changes" comment="terzo esercizio finito">
+      <change afterPath="$PROJECT_DIR$/src/esercizio4/es4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Application.es1.executor": "Run",
     "Application.es2.executor": "Run",
     "Application.es3.executor": "Run",
+    "Application.es4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -76,12 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709644754331</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="terzo esercizio finito">
+      <option name="closed" value="true" />
+      <created>1709645714450</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709645714450</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primo esercizio finito" />
     <MESSAGE value="secondo esercizio finito" />
-    <option name="LAST_COMMIT_MESSAGE" value="secondo esercizio finito" />
+    <MESSAGE value="terzo esercizio finito" />
+    <option name="LAST_COMMIT_MESSAGE" value="terzo esercizio finito" />
   </component>
 </project>
